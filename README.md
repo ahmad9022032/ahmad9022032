@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad9022032&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad9022032" /> </p>
 
-- 📫 How to reach me **u2021331@giki.edu.pk**
+- 📫 How to reach me **u2021331@giki.edu.pk** or **muhammadahmadkhan316@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
