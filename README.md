@@ -1,175 +1,56 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 
-<h3 align="center">AI/ML Developer | Generative AI | Agentic AI | Full-Stack Developer</h3>
+<h3 align="center">AI/ML Engineer • Generative AI • Agentic AI • Computer Vision • Full-Stack Developer</h3>
 
 <p align="center">
-  Building intelligent systems, AI-powered applications, and scalable full-stack solutions.
+  Experienced Engineer building intelligent systems and AI-powered applications from model development to production. 🚀
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ahmad9022032&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad9022032" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmad9022032&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧠 About Me
 
-I'm an **AI/ML and Full-Stack Developer from Pakistan** focused on building intelligent, production-oriented applications that combine **machine learning, deep learning, Generative AI, Agentic AI, and modern web technologies**.
+I'm an **AI/ML & Full-Stack Developer from Pakistan** passionate about turning AI into real-world products.
 
-My work spans the complete development lifecycle — from **data processing and model development** to **AI integration, backend APIs, frontend applications, databases, and deployment**.
+I work across **Machine Learning, Deep Learning, Computer Vision, Generative AI, Agentic AI, Multi Agent systems and Full-Stack Development** — building everything from intelligent models and AI agents to complete web applications.
 
-I enjoy building systems that don't just use AI models, but turn them into **useful, interactive, and scalable products**.
+### ⚡ What I Build
 
----
+**🤖 AI / ML**
+Machine Learning • Deep Learning • Computer Vision • NLP • Data Science
 
-## 🚀 What I Do
+**✨ Generative AI**
+LLMs • RAG • Embeddings • Prompt Engineering • AI Chatbots • AI Applications
 
-### 🤖 Artificial Intelligence & Machine Learning
+**🧠 Agentic AI**
+AI Agents • Multi-Agent Systems • Tool Calling • AI Automation • Intelligent Workflows
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Data Preprocessing & Feature Engineering
-* Model Training & Evaluation
-* Predictive Modeling
-* AI Model Integration
+**🌐 Full Stack**
+Python • Django • Flask • Node.js • Express.js • JavaScript • REST APIs
 
-### ✨ Generative AI
+**🗄️ Data & Databases**
+NumPy • Pandas • PostgreSQL • MySQL • MongoDB • SQLite
 
-* Large Language Models (LLMs)
-* LLM-powered applications
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* AI Chatbots
-* AI-powered APIs
-* Embeddings & Semantic Search
-* Knowledge-based AI systems
-* AI application development
-
-### 🧠 Agentic AI
-
-* AI Agents
-* Multi-Agent Systems
-* Tool-using AI Agents
-* Autonomous AI Workflows
-* Agent Orchestration
-* LLM-based Decision Making
-* AI Agents with external tools and APIs
-* AI automation
-* Intelligent workflow systems
-
-### 🌐 Full-Stack Development
-
-I build **end-to-end applications**, connecting AI systems with modern web applications.
-
-**Frontend**
-
-* HTML
-* CSS
-* JavaScript
-* Modern web interfaces
-* Responsive UI development
-
-**Backend**
-
-* Python
-* Django
-* Flask
-* Node.js
-* Express.js
-* REST APIs
-* AI/ML API integration
-
-**Databases**
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* SQLite
+**🛠️ AI & Dev Tools**
+PyTorch • TensorFlow • Scikit-learn • OpenCV • Git • GitHub • Linux
 
 ---
 
-## 🛠️ Technology Stack
+### 🚀 Tech Philosophy
 
-### AI / ML
+> **Build. Train. Automate. Deploy. Repeat.**
 
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `OpenCV`
+I enjoy creating **AI-powered products that combine intelligent models, autonomous agents, and modern full-stack technology.**
 
-### Generative AI
-
-`LLMs` `RAG` `Embeddings` `Vector Search` `Prompt Engineering` `AI Applications`
-
-### Agentic AI
-
-`AI Agents` `Multi-Agent Systems` `Tool Calling` `Agent Workflows` `AI Automation`
-
-### Data Science
-
-`NumPy` `Pandas` `Matplotlib` `Seaborn`
-
-### Full Stack
-
-`HTML` `CSS` `JavaScript` `Django` `Flask` `Node.js` `Express.js`
-
-### Databases
-
-`PostgreSQL` `MySQL` `MongoDB` `SQLite`
-
-### Development
-
-`Git` `GitHub` `Linux` `REST APIs`
-
----
-
-## 💡 Areas of Interest
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning & Deep Learning
-* ✨ Generative AI
-* 🧩 Agentic AI & Autonomous Agents
-* 🔗 Retrieval-Augmented Generation (RAG)
-* 👁️ Computer Vision
-* 💬 LLM Applications
-* 🌐 AI-Powered Full-Stack Applications
-* ⚙️ AI Automation & Intelligent Workflows
-* 📊 Data Science & Analytics
-* 🚀 Production AI Systems
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-437153229/" target="_blank">
-    LinkedIn
-  </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:muhammadahmadkhan316@gmail.com">
-    Email
-  </a>
-</p>
+### 📫 Let's Connect
 
 **Email:** [muhammadahmadkhan316@gmail.com](mailto:muhammadahmadkhan316@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad9022032&show_icons=true&locale=en&layout=compact" alt="ahmad9022032" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad9022032&show_icons=true&locale=en" alt="ahmad9022032" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad9022032" alt="ahmad9022032" />
-</p>
-
----
+**LinkedIn:** [Muhammad Ahmad](https://www.linkedin.com/in/muhammad-ahmad-437153229/)
 
 <p align="center">
-  <b>Building intelligent systems that connect AI with real-world applications 🚀</b>
+  <b>AI isn't just what I build — it's how I build. ⚡</b>
 </p>
